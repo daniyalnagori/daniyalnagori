@@ -1,10 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Daniyal Nagori</h1>
 <h3 align="center">(Full-Stack Cloud Developer and Architect)</h3>
 
+<h2>Licenses & Certifications</h2>
 <ul>
-  <li>Certified AWS developer</li>
-  <li>Certified Kubernetes Application developer</li>
-  <li>Certified React Nanodegree developer</li>
+  <li><a href="https://www.credly.com/badges/7f8f27e0-1dad-4011-8565-f648cb709829">AWS Certified Developer</a></li>
+  <li><a href="https://www.credly.com/badges/c3e0f7e9-4c13-4393-91a8-42e9901e2e04/">CKAD: Certified Kubernetes Application Developer</a></li>
+  <li><a href="https://graduation.udacity.com/confirm/4EPK27ST">React Nanodegree</a></li>
 </ul>  
 
 <h3 align="left">Connect Info:</h3>
