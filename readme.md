@@ -8,6 +8,19 @@
   <li><a href="https://graduation.udacity.com/confirm/4EPK27ST">React Nanodegree</a></li>
 </ul>  
 
+
+💬 Full Stack Cloud Developer with a passion of cloud-based web and mobile apps, blockchain, and digital tokens. Completed numerous large world class scalable projects with 100% completion rate.
+
+Have more than 7 years of experience in the industry. As a developer, I've worked with multiple startups and businesses like Autonomiq.io, TerraceAg, Gloow.io, Kubernetes Manager, Turing eye, Interspan, Esox.ai, Presentation Next, and others all around the world. They're all driven by a desire to take their products to the next level.
+
+I graduated with a bachelor's degree in Computer Science and have had the chance to become a Certified Kubernetes Application Developer (CKAD) and a Certified React Nanodegree Developer. I volunteer to teach JavaScript on weekends. I host online programming sessions on YouTube and other platforms in this pandemic.
+
+I create lightweight, powerful cloud native container-based apps that run on any cloud/PaaS platform (AWS, Google Cloud, Azure, Red Hat, etc.). Everything will be automated in my workflows including CI/CD. I can work alone or deploy a team of skilled developers, UI/UX engineers, and technical writers.
+
+To summarize, I've been working on AWS Serverless SaaS using AWS CDK, GitHub Actions, React, Redux, Storybook, Gatsby, AWS Cloud Front, Contentful, AWS Lambda, Docker, API Gateway, AppSync, MongoDB, DynamoDB, Aurora Serverless Relational DB, SQL, Neptune Graph DB, Gremlin Graph Traversal Language, AWS EventBridge, etc.
+
+I'm ready for the next technological wave, and I've created Cloud Native serverless architecture apps that work with any client (including React, React Native, Angular, VueJS, etc) utilizing the AWS stack. Your app will be scalable and able to handle a huge number of users this way. Depending on the requirements of your project, I can provide these cutting-edge technology to ensure that it is a tremendous success and delivered on time.
+
 <h3 align="left">Connect Info:</h3>
 You can connect me here 👇
 
