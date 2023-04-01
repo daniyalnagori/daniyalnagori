@@ -27,7 +27,6 @@ You can connect me here 👇
   <a href="mailto:daniyalnagoriii@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/128/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="daniyalnagoriii" height="30" width="30" /></a>
 <a href="https://twitter.com/daniyalnagori1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daniyalnagori1" height="30" width="40" /></a>
 <a href="https://pk.linkedin.com/in/daniyalnagori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniyalnagori" height="30" width="40" /></a>
-
 <a href="https://fb.com/daniyalnagori1237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniyalnagori1237" height="30" width="40" /></a>
 </p>
 
